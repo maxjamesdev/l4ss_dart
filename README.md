@@ -20,3 +20,10 @@ It will cycle through GET, POST, and PUT methods.
 
 The total amount of requests you make can be found with this: 
 `(targets * 3) * payloads`
+
+-----------------------------------------
+
+Inside of `l4ss.dart` there are two bools, `__log` and `__ver`.
+
+`__log` = true will turn on minimal logging, and enable `__ver` to work.
+`__ver` = true will just log everything, because why not. 
