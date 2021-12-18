@@ -21,7 +21,7 @@ It will cycle through GET, POST, and PUT methods.
 The total amount of requests you make can be found with this: 
 `(targets * 3) * payloads`
 
-Please be advised that I do not believe in rate limiting.
+Please be advised that I do not believe in rate limiting. (But I'll add it ASAP)
 
 -----------------------------------------
 
