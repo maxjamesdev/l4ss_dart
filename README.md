@@ -1,4 +1,4 @@
-# l4ss_dart
+# Log4j Log4Shell Scanner Dart (l4ss_dart)
 Log4ShellScanner Dart
 
 I love Dart. I hate Log4Shell. Seeing as I am so in touch with my emotions, I comined those two feelings and created this.
