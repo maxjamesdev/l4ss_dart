@@ -19,4 +19,4 @@ No arguments, just run `pub get` in the project directory and then `dart l4ss.da
 It will cycle through GET, POST, and PUT methods.
 
 The total amount of requests you make can be found with this: 
-`targets * 3) * payloads`
+`(targets * 3) * payloads`
